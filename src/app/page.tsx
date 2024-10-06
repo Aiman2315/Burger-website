@@ -9,10 +9,10 @@ function Home() {
 
           <ul className="flex space-x-9 font-semibold text-1xl">
           <li className="bg-yellow-600 rounded-full px-5 hover:bg-transparent hover:text-white hover:border"><a href="#">ORDER NOW</a></li>
-          <li><a href="#">HOME</a></li>
-          <li><a href="#">ABOUT</a></li>
-          <li><a href="#">MENU</a></li>
-          <li><a href="#">CONTACT</a></li>
+          <li className="hover:bg-transparent hover:text-white"><a href="#">HOME</a></li>
+          <li className="hover:bg-transparent hover:text-white"><a href="#">ABOUT</a></li>
+          <li className="hover:bg-transparent hover:text-white"><a href="#">MENU</a></li>
+          <li className="hover:bg-transparent hover:text-white"><a href="#">CONTACT</a></li>
           </ul>
         </div>
       </nav>
