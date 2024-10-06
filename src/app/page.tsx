@@ -29,9 +29,10 @@ function Home() {
          <p className="font-semibold px-4 text-2xl text-white">"Taste The Difference in Every Bite"</p>
          <div className="w-full  xl:w-1/2  xl:absolute bottom-0 right-20 top-23 ">
           <Image src="/main.png" alt="main" width="900" height="900"></Image>
+          </div>
         </div>
-      </div>
-
+           
+       
   )
 };
 export default Home;
