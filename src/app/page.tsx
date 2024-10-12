@@ -20,7 +20,7 @@ function Home() {
         <br />
         The
         <br />
-         Smoky 
+         Smokey 
         <br />
          Burger
          </h1>
