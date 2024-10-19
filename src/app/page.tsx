@@ -2,7 +2,7 @@ import Image from 'next/image';
 
 function Home() {
   return (
-    <div className="container min-h-screen bg-green-800 bg-center bg-cover px-20 relative">
+    <div className="container min-h-screen bg-green-700 bg-center bg-cover px-20 relative">
       <nav>
         <div className="flex justify-between items-center">
           <Image src="/logo.png" alt="logo" width="150" height="150"/>
