@@ -8,9 +8,14 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        poppins: ['Poppins', 'sans-serif'], 
+        
+      },
       container: {
         center: true,
         padding: "15px"
+        
       },
       colors: {
         accent: "#f94c25",
